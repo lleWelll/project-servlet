@@ -1,0 +1,23 @@
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+td {
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+    color: blue;
+    text-align: center;
+    margin: 10px
+}
